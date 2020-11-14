@@ -1,0 +1,117 @@
+html{
+	scroll-behavior: smooth;
+}
+* {
+	margin: 0;
+	padding: 0; 
+	background-color: white;
+}
+
+body { 
+	margin: 0 auto;
+	width : 420px;
+	background-color: #732379;
+}
+a {
+	background-color: #732379;
+	height: 1px;
+}
+#banner {
+	font-family: 'Jua', sans-serif;
+	color: white;
+	text-align: center;
+	width: 400px;
+	margin: 0px auto;
+	padding: 100px 10px 10px 10px;
+	background-color: #732379;
+	border : none;
+	padding-bottom: 10px;
+}
+
+#question {
+	font-family: 'Jua', sans-serif;
+	font-size: 35px;
+	text-align: center;
+	width: 320px;
+	height: 250px;
+	margin: 5px auto;
+	padding: 25px;
+	/*background-color: #eeccff;*/
+	background-color: #732379;
+	border : none;
+}
+.post{
+	background-color: #732379;
+}
+.post-wrapper{
+	background-color: #732379;
+	height: 250px;
+	display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+	margin: 0px auto;	
+	padding: 0px 5px;
+}
+#post1{
+	padding: 0px 15px 0px 15px;
+	background-color: #732379;
+	font-size: 100px;
+	height: 100px;
+	margin: 0px auto;
+}
+#post2{
+	padding: 0px 15px;
+	background-color: #732379;
+	font-size: 70px;	
+	color: #5cd4f6; 
+	height: 80px;
+	margin: 0px auto;
+}
+#post3{
+	padding: 0px 15px;
+	background-color: #732379;
+	font-size: 40px;	
+	color: white; 
+	height: 40px;
+	margin: 0px auto;
+}
+#post4{
+	background-color: #732379;
+	font-size: 25px;	
+	color: white; 
+	margin: 0px auto;
+}
+#answer {
+	padding: 50px 25px 120px 25px;
+	text-align: center;
+	background-color: #732379;
+}
+#answer button { 
+	width: 370px;
+	height: 110px;
+	font-size: 45px; 
+	border : none;
+	border-radius: 2em;
+	background-color: #5cd4f6; 
+	color: white; 
+	margin-bottom: 10px; 
+	padding: 15px; 
+	font-family: 'Jua', sans-serif;
+}
+
+#answer button:hover { 
+	color: #5cd4f6; 
+	background-color: white; 
+	font-family: 'Jua', sans-serif;
+}
+#answer #btn1 { 
+	background-color: #732379;
+}
+
+footer { 
+	font-size: 20px;
+	text-align: center; 
+	font-family: 'Jua', sans-serif;
+	background-color: white;
+	padding: 5px;
+}
